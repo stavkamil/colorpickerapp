@@ -115,7 +115,7 @@ export default {
       textAlign: "center",
       marginBottom: "0",
       padding: "1rem",
-      color: "#363636",
+      color: "#363636"
       // textTransform: "uppercase",
       [sizes.down("xs")]: {
         fontSize: "6rem",
