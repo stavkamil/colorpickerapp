@@ -1,6 +1,6 @@
 # React Color Picker App
 
-[Full Demo HERE](https://stavkamil.github.io/colorpickerapp/): https://stavkamil.github.io/colorpickerapp/
+Full Demo: https://stavkamil.github.io/colorpickerapp/
 
 **Color Picker** is a full Application built with **React**. It uses some of the core fundamental of building full React based apps and helpled me practice and implement the React core features:
 
